@@ -1,4 +1,4 @@
-## Hi, I'm Ojieabu Ebaide
+## Hi,I'm Eby!
 
 An aspiring software engineer, with basic knowledge of HTML, CSS and Javascript, currently learning python and javascript (Nodejs).
 
